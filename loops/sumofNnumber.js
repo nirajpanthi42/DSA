@@ -1,7 +1,9 @@
 
 // sum of natural number  
 
-// natural number be 1,2,3,4,5,6,7,8,9,10
+// natural number 
+// input:1,2,3,4,5,6,7,8,9,10
+//output:55
 
 function sumofn(){
     let sum=0;
@@ -21,7 +23,9 @@ console.log(  sum);
 
 // question 2
 
-// natural number be  10,9,8,7,6,5,4,3,2,1
+// natural number 
+// input:10,9,8,7,6,5,4,3,2,1
+//output:55
 
 
 function sumofN(){
