@@ -5,18 +5,18 @@
 // input:1,2,3,4,5,6,7,8,9,10
 //output:55
 
-function sumofn(){
-    let sum=0;
- let i=0;
+function sumofn() {
+    let sum = 0;
+    let i = 0;
 
-for(i=1;i<=10;i++){
-    sum=sum+i;
-    
-}
+    for (i = 1; i <= 10; i++) {
+        sum = sum + i;
 
-console.log(  sum);
+    }
+
+    console.log(sum);
 }
- sumofn();
+sumofn();
 
 
 
@@ -28,16 +28,16 @@ console.log(  sum);
 //output:55
 
 
-function sumofN(){
+function sumofN() {
 
-let sum=0;
+    let sum = 0;
 
-let i=0;
+    let i = 0;
 
-for(i=10;i>=1;i--){
-    sum=sum+i
-}
-console.log(sum);
+    for (i = 10; i >= 1; i--) {
+        sum = sum + i
+    }
+    console.log(sum);
 
 }
 

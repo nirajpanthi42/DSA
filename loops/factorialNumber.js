@@ -8,19 +8,19 @@
 
 
 
-function factorialNumber(){
+function factorialNumber() {
 
-    let fact=1;
-    let i=4
-   for(i=4;i>=1;i--){
-    console.log(i);
-    fact=fact*i
-    
-   }
+    let fact = 1;
+    let i = 4
+    for (i = 4; i >= 1; i--) {
+        console.log(i);
+        fact = fact * i
 
-   console.log(fact);
-   
-    
+    }
+
+    console.log(fact);
+
+
 }
 
 factorialNumber()
