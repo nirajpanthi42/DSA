@@ -1,8 +1,7 @@
 
+
+
 const prompt=require("prompt-sync")();
-
-
-
 
 function basicpattern(){
     let n=prompt("enter a number");
