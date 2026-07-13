@@ -26,4 +26,4 @@ for(let i=0;i<arr.length;i++){
     arr[i]=prompt("Enter the value of array at index"+i+":");
 }
 console.log(arr);
-
+//done
