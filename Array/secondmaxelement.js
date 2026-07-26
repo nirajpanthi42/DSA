@@ -14,7 +14,7 @@ for(let i=2;i<arr.length;i++){
     if(arr[i]>max){
        secmax=max;
        max=arr[i];
-    }else if(arr[i]>secmax){
+    }else if(arr[i]>secmax && max!==secmax){
         secmax=arr[i]
     }
 }
