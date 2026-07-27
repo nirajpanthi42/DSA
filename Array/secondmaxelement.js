@@ -3,7 +3,7 @@
 //input: [2,3,4,6]
 //output:4
 
-let arr=[2,3,4,6];
+let arr=[2,3,4,4];
 
 let max=Math.max(arr[0],arr[1]);
 
