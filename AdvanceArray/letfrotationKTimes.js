@@ -11,11 +11,12 @@ let arr=[1,2,3,4,5];
 
 let k=2;
 
-let copy=arr[0];
 
 for(let j=0;j<k;j++){
 
-   for(let i=0;i<arr.length-1;i++){
+let copy=arr[0];
+
+   for(let i=0;i<arr.length;i++){
       arr[i]=arr[i+1];
    }
 
