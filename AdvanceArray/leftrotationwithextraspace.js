@@ -1,6 +1,6 @@
 //Question:Left Rotation with extra sapce
 //input:[1,2,3,4,5]
-//ouput:[4,5,1,2,3]
+//ouput:[ 3, 4, 5, 1, 2 ]
 
 
 
