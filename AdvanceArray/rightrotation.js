@@ -18,4 +18,6 @@ for(let i=4;i>0;i--){
 
 arr[0]=copy;
 
+
 console.log(arr);
+
